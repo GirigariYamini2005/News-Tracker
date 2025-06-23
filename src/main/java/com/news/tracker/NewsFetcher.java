@@ -5,7 +5,7 @@ import org.apache.http.client.fluent.Request;
 import java.util.*;
 
 public class NewsFetcher {
-    private static final String API_KEY = ""; // Replace with your real key
+    private static final String API_KEY = "API_KEY"; // Replace with your real key
 
     public List<NewsArticle> fetch(UserPreferences prefs) throws Exception {
         String url = String.format(
