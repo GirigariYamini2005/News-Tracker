@@ -2,4 +2,4 @@ News Tracker is a personalised news aggregation that allows users to stay effort
 countries and topics of interest.
 
 
-Tools Used: Java, Maven
+ Used: Java, Maven
