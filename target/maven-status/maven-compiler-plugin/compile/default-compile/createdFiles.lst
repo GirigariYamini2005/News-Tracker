@@ -1,0 +1,4 @@
+com\news\tracker\App.class
+com\news\tracker\NewsFetcher.class
+com\news\tracker\NewsArticle.class
+com\news\tracker\UserPreferences.class
